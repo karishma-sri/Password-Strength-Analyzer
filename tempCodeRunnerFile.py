@@ -1,1 +1,0 @@
-result_label.config(text=result_text, fg=color)
